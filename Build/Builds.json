@@ -1,0 +1,16 @@
+{
+"companyName": "Rogue Baron Entertainment",
+"productName": "JS Website",
+"productVersion": "1.0",
+"dataUrl": "Builds.data.unityweb",
+"wasmCodeUrl": "Builds.wasm",
+"wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#021802",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
